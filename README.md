@@ -2,7 +2,7 @@
 *Just Another Neural Intelligence System — except it isn't.*
 
 ---
-
+FUCK ANTHROPIC (JUST SAYIN)
 
 
 ---
