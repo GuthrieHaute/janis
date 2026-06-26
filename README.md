@@ -3,7 +3,7 @@
 
 ---
 
-**JANIS is closed source. This is not a commercial decision. There is no roadmap to change that. We won't be elaborating on this further.**
+
 
 ---
 
@@ -11,43 +11,6 @@
 
 JANIS is a machine learning system built from scratch. It shares no DNA with the architectures that dominate the current AI landscape.
 
-It trains to **100% accuracy**. Not as a benchmark target — as a reliable property. JANIS does not guess. It knows when it knows, and it knows when it doesn't. Outputs are reliable or they're flagged. Every time.
-
----
-
-## Results
-
-### MNIST — Image Classification
-| Metric | Value |
-|--------|-------|
-| Parameters | 923,000 |
-| Accuracy | **100%** |
-| Training steps | < 5,000 |
-
-### DNA Motif Discovery — Bioinformatics
-| Metric | Value |
-|--------|-------|
-| Parameters | 788,739 |
-| Test Accuracy | **99.95%** |
-| Epochs to convergence | 3 |
-
-These are not curated benchmark numbers. Download the weights and verify them yourself.
-
----
-
-## Weights
-
-Pre-trained weights for the above domains are available for download. Additional domain weights are in active development and will be released on a rolling basis.
-
-**Coming soon:**
-- Medical diagnostics
-- Financial time series
-- Natural language
-- Structured data / tabular
-
-Training to 100% accuracy on a new domain is straightforward. Weights will be released as domains are validated.
-
----
 
 ## Why This Matters
 
